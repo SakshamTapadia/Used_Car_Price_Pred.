@@ -49,7 +49,7 @@ This project predicts used car prices using machine learning techniques. The sys
 ```bash
 git clone https://github.com/sakshamtapadia/used_car_price_pred.git
 cd used_car_price_pred
-
+```
 ## How to Run
 
 ```bash
